@@ -22,13 +22,13 @@ Passive Aggressive Regressor (PAR) performed poorly with a negative R² score.
 
 
 
-Detailed performance metrics of all models
+# Detailed performance metrics of all models
 
 ![image](https://github.com/user-attachments/assets/6f5151bc-3677-40d4-833a-da2046ccc4fa)
 
 
 
-Visualization files
+# Visualization files
 
 ![image](https://github.com/user-attachments/assets/3c7fc255-b5ab-4bf2-91ca-be510e1c3baa)
 

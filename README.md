@@ -1,4 +1,4 @@
-# Fuel Cell Performance Prediction\
+# Fuel Cell Performance Prediction
 
 # Overview
 This project predicts the performance of fuel cells using various machine learning models. Multiple regression models were compared to determine the best-performing algorithm.

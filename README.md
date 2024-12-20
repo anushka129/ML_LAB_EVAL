@@ -10,7 +10,7 @@ The dataset has been split into 70% training (700 samples) and 30% testing (300 
 
 ## Here are the performance results of some models:
 
-Extra Forest Regressor achieved the highest R² score (0.7724) and lowest RMSE (20.7101), making it the best-performing model.
+Extra Trees Regressor achieved the highest R² score (0.7724) and lowest RMSE (20.7101), making it the best-performing model.
 
 Gradient Boosting Regressor followed closely with an R² score of 0.762 and RMSE of 21.0466.
 
